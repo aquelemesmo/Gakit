@@ -1,0 +1,32 @@
+{
+  "name": "gakit",
+  "version": "2.0.5",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "functions": "^1.0.9",
+    "jimp": "^0.10.3",
+    "lowdb": "^1.0.0",
+    "mathjs": "^6.6.0",
+    "minecraft-server-util": "^1.3.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.22",
+    "ms": "^2.1.2",
+    "node-gyp": "^6.1.0",
+    "ops": "0.0.1",
+    "patch": "0.0.1",
+    "quick.db": "^7.0.0-b22",
+    "quick.log": "^1.2.1",
+    "quick.log-discord": "^1.1.0",
+    "rebuild": "^0.1.2",
+    "ytdl-core": "^2.1.7"
+  }
+}
