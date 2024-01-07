@@ -1,1 +1,2 @@
-Antes de voce ve o resto do code do bot GaKit, avisando que vai ser excluido o GitHub do bot por causa das atualizacoes do bot, entao caso queira ver se algo foi adcionado so digitar ?discordserver no bot que voce vai la na comunidade do GaKit.
+NODEJS v8
+Discord.JS v11
